@@ -1,0 +1,51 @@
+.card{
+    border-radius: 5%;
+    background: blue;
+    color: white;
+    margin-left:2% ;
+       height: 400px;
+       width: 350px;
+       margin-top: 2%;
+}
+
+.card:hover {transform: scale(1.1);}
+
+.card-img-top{
+    width: 250px;
+    height: 220px;
+    
+}
+
+.headingh1{
+    text-align: center;
+    color: white;
+    text-shadow: lightblue;
+
+}
+
+.max{
+   color: green;
+font-weight: bold;
+}
+
+.min{
+color: aqua;
+font-weight: bold;
+}
+
+.day{
+    color: brown;
+   font-weight: bold;
+}
+
+.topTemp{
+    align-items: center;
+    font-size: 26px;
+    color: cyan;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.card-body{
+    align-items: center;
+}

@@ -1,0 +1,96 @@
+
+     [
+      {
+        "id": 1,
+        "name": "Restaurant Manas",
+        "category": "south",
+        "price": 200,
+        "img":"https://img.restaurantguru.com/c136-Restaurant-South-corner-meals.jpg",
+         "description":"A dosa is a thin, savoury crepe in South Indian cuisine made from a fermented batter of ground white gram and rice."
+      },
+      {
+        "id": 2,
+        "name": "Restaurant smile",
+        "category": "Indian",
+        "price":300,
+        "img":"https://media-cdn.tripadvisor.com/media/photo-s/0b/34/80/18/delicious-food-corner.jpg",
+        "description":" Chapatis go well with curries, dry sabzis or sabjis (vegetables cooked in gravy), chutneys or dal."
+
+      },
+       {
+       
+      "id": 3,
+      "name": "Restaurant durga",
+      "category": "Italic",
+      "price":300,
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pizza-3007395.jpg/1200px-Pizza-3007395.jpg",
+      "description":"pizza, dish of Italian origin consisting of a flattened disk of bread dough topped with some combination of olive oil, oregano, tomato, olives, mozzarella or other cheese, and many other ingredients, baked quickly"
+       },
+
+       {
+        "id": 4,
+        "name": "Restaurant sayli",
+        "category": "kolhapuri",
+        "price":300,
+        "img":"https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/2017/08/23123431/23082017_kolhapurithali_02.jpg",
+        "description":"The mutton meat is a nutritious gold mine, including zinc for a robust immune system, the B12 vitamin for nerve function, and iron for healthy blood. "
+
+      },
+          
+       {
+        "id": 5,
+        "name": "Restaurant nation",
+        "category": "Rajasthan",
+        "price":300,
+        "img":"https://images.squarespace-cdn.com/content/v1/5f2fa039103c7a08856032c1/1617410038432-RPNZUM15PLGK5X1PFFHB/20210321_161914.jpg",
+        "description":"The concept of the thali meal traces back to ancient Indian traditions where different flavors (sweet, salty, bitter, sour, astringent, and spicy) were balanced to create a complete meal, believed to promote holistic health."
+
+      },
+
+       
+       {
+        "id": 6,
+        "name": "Restaurant Nisarga",
+        "category": "Gujrati",
+        "price":300,
+        "img":"https://www.holidify.com/images/cmsuploads/compressed/Dhokla_20180327130008.jpg",
+        "description":"Dhokla is a steamed snack that originated in Gujarat. It is made from gram flour or lentils. Hence, it is low in calories and fat, protein and fibre rich, and nutrient-dense. The high protein and fibre in dhokla help increase satiety and curb appetite."
+
+
+      },
+
+       
+       {
+        "id": 7,
+        "name": "Restaurant suma",
+        "category": "Punjabi",
+        "price":300,
+        "img":"https://www.culturalindia.net/iliimages/Punjabi-Food-ili-117-ogimg.jpg",
+        "description":"Plain Paratha is a traditional Punjabi paratha that is ideal for a wholesome meal or as a healthy snack. The addition of sesame seeds boosts the nutrient content of the meal."
+
+      },
+
+       
+       {
+        "id": 8,
+        "name": "Restaurant Modern",
+        "category": "Banarasi",
+        "price":300,
+        "img":"https://www.fabhotels.com/blog/wp-content/uploads/2022/08/Dahi-Chutney-Golgappe-1.jpg",
+        "description":"The chickpeas used in golgappa are an excellent source of fibre, which can help lower cholesterol levels in the blood."
+
+        },
+
+
+        {
+          "id": 9,
+          "name": "Restaurant Saish",
+          "category": "Varanasi",
+          "price":300,
+          "img":"https://img.traveltriangle.com/blog/wp-content/uploads/2019/12/cover-image-of-Varanasi-Food_11th-dec.jpg",
+          "description":"kachoris are usually deep-fried, which means they have high levels of unhealthy fats that can contribute to increased bad cholesterol (LDL) levels and raise your risk of heart disease."
+
+          }
+        ]
+    
+  
